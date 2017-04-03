@@ -1,39 +1,37 @@
-[2017-04-01 16:37:34] slim-app.INFO: Teste '/' route [] {"uid":"efaf97d"}
-[2017-04-01 16:37:55] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"d9aae58"}
-[2017-04-01 16:38:56] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"ff4ca50"}
-[2017-04-01 16:39:00] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"b9e29f4"}
-[2017-04-01 16:39:21] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"9487b3a"}
-[2017-04-01 16:39:29] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"2044d0c"}
-[2017-04-01 16:39:52] slim-app.INFO: Teste '/' route [] {"uid":"7490f7c"}
-[2017-04-01 16:39:57] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"8a4a678"}
-[2017-04-01 16:40:08] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"21bad00"}
-[2017-04-01 16:42:00] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"ef0a8e0"}
-[2017-04-01 16:42:01] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"1bea586"}
-[2017-04-01 16:42:05] slim-app.INFO: Teste '/' route [] {"uid":"fd35536"}
-[2017-04-01 16:52:47] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"44c8599"}
-[2017-04-02 21:46:51] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"08747f6"}
-[2017-04-02 22:11:09] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"4decd4b"}
-[2017-04-02 22:16:31] slim-app.INFO: Teste '/' route [] {"uid":"1f94c2b"}
-[2017-04-02 22:32:16] slim-app.INFO: Teste '/' route [] {"uid":"2fe5436"}
-[2017-04-02 22:32:45] slim-app.INFO: Teste '/' route [] {"uid":"61c16e1"}
-[2017-04-02 22:33:26] slim-app.INFO: Teste '/' route [] {"uid":"f57e00a"}
-[2017-04-02 22:34:06] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"bed7d16"}
-[2017-04-02 22:34:08] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"2967ea5"}
-[2017-04-02 22:34:22] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"19ba85e"}
-[2017-04-02 22:34:38] slim-app.INFO: Teste '/' route [] {"uid":"26a36c1"}
-[2017-04-02 22:45:59] slim-app.INFO: getGuitarById '/' route [] {"uid":"6eccdf8"}
-[2017-04-02 22:47:52] slim-app.INFO: getGuitarById '/' route [] {"uid":"d2c3127"}
-[2017-04-02 22:47:54] slim-app.INFO: getGuitarById '/' route [] {"uid":"5bd89fe"}
-[2017-04-02 22:49:34] slim-app.INFO: getGuitarById '/' route [] {"uid":"e6daf40"}
-[2017-04-02 22:49:49] slim-app.INFO: getGuitarById '/' route [] {"uid":"4ca3959"}
-[2017-04-02 22:50:16] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"87b7ffd"}
-[2017-04-02 22:50:26] slim-app.INFO: getAllGuitars '/' route [] {"uid":"3d92c3d"}
-[2017-04-02 22:50:36] slim-app.INFO: getGuitarById '/' route [] {"uid":"dc06d89"}
-[2017-04-02 22:50:41] slim-app.INFO: getGuitarById '/' route [] {"uid":"113d1d0"}
-[2017-04-02 22:50:58] slim-app.INFO: getGuitarById '/' route [] {"uid":"e8479f9"}
-[2017-04-02 22:51:15] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"6692d4b"}
-[2017-04-02 22:51:24] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"08fbd0f"}
-[2017-04-02 22:51:49] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"e396d4e"}
-[2017-04-02 22:52:20] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"485a75e"}
-[2017-04-02 22:52:33] slim-app.INFO: getAllGuitars '/' route [] {"uid":"69077a3"}
-[2017-04-02 22:52:41] slim-app.INFO: getGuitarById '/' route [] {"uid":"ea0f3b8"}
+[2017-04-03 20:36:24] slim-app.INFO: InsertGuitars '/' route [] {"uid":"8b9d758"}
+[2017-04-03 20:36:24] slim-app.INFO: InsertGuitars '/'11, 1, 1, PRS, 2017-04-03, 2017-04-03 [] {"uid":"8b9d758"}
+[2017-04-03 20:39:24] slim-app.INFO: InsertGuitars '/' route [] {"uid":"fe6404a"}
+[2017-04-03 20:39:24] slim-app.INFO: InsertGuitars '/'12, 1, 1, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"fe6404a"}
+[2017-04-03 20:40:19] slim-app.INFO: InsertGuitars '/' route [] {"uid":"e851b2b"}
+[2017-04-03 20:40:19] slim-app.INFO: InsertGuitars '/'12, 1, 1, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"e851b2b"}
+[2017-04-03 20:43:25] slim-app.INFO: InsertGuitars [] {"uid":"5ffac31"}
+[2017-04-03 20:43:25] slim-app.INFO: InsertGuitars '/'12, 1, 1, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"5ffac31"}
+[2017-04-03 20:54:32] slim-app.INFO: DeleteGuitarsById  '/' Código =>12 [] {"uid":"c9dc1d6"}
+[2017-04-03 20:55:01] slim-app.INFO: DeleteGuitarsById  '/' Código =>12 [] {"uid":"e5765d4"}
+[2017-04-03 20:55:01] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"e5765d4"}
+[2017-04-03 20:55:28] slim-app.INFO: DeleteGuitarsById  '/' Código =>12 [] {"uid":"fc0e756"}
+[2017-04-03 20:55:29] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"fc0e756"}
+[2017-04-03 20:56:07] slim-app.INFO: DeleteGuitarsById  '/' Código =>12 [] {"uid":"6edbe5f"}
+[2017-04-03 20:56:07] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"6edbe5f"}
+[2017-04-03 20:56:54] slim-app.INFO: DeleteGuitarsById  '/' Código =>12 [] {"uid":"78fa4c4"}
+[2017-04-03 20:56:54] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"78fa4c4"}
+[2017-04-03 20:58:37] slim-app.INFO: DeleteGuitarsById Código =>12 [] {"uid":"80abdb5"}
+[2017-04-03 20:58:37] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"80abdb5"}
+[2017-04-03 21:03:16] slim-app.INFO: DeleteGuitarsById Código =>12 [] {"uid":"4f88f5a"}
+[2017-04-03 21:03:16] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"4f88f5a"}
+[2017-04-03 21:05:27] slim-app.INFO: DeleteGuitarsById Código =>12 [] {"uid":"3e52e13"}
+[2017-04-03 21:05:27] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"3e52e13"}
+[2017-04-03 21:06:03] slim-app.INFO: DeleteGuitarsById Código =>12 [] {"uid":"c5053fa"}
+[2017-04-03 21:06:03] slim-app.INFO: updateGuitarsById '/'2, 2, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"c5053fa"}
+[2017-04-03 21:09:57] slim-app.INFO: getAllGuitars '/' route [] {"uid":"682d74b"}
+[2017-04-03 21:10:18] slim-app.INFO: getGuitarById '/' route [] {"uid":"e5da595"}
+[2017-04-03 21:10:24] slim-app.INFO: getGuitarById '/' route [] {"uid":"431a9e4"}
+[2017-04-03 21:10:28] slim-app.INFO: getGuitarById '/' route [] {"uid":"9bac848"}
+[2017-04-03 21:10:33] slim-app.INFO: getGuitarById '/' route [] {"uid":"8c39ae2"}
+[2017-04-03 21:12:24] slim-app.INFO: InsertGuitars [] {"uid":"115a41b"}
+[2017-04-03 21:12:24] slim-app.INFO: InsertGuitars '/'06, 8, 8, Jazz Master, 2017-04-03, 2017-04-03 [] {"uid":"115a41b"}
+[2017-04-03 21:14:30] slim-app.INFO: DeleteGuitarsById '/' route [] {"uid":"03ac255"}
+[2017-04-03 21:15:52] slim-app.INFO: updateGuitarsById Código =>12 [] {"uid":"1e551b8"}
+[2017-04-03 21:15:52] slim-app.INFO: updateGuitarsById '/'8, 8, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"1e551b8"}
+[2017-04-03 21:16:39] slim-app.INFO: updateGuitarsById Código =>11 [] {"uid":"e0c1b95"}
+[2017-04-03 21:16:39] slim-app.INFO: updateGuitarsById '/'2, 4, Gold Top, 2017-04-03, 2017-04-03 [] {"uid":"e0c1b95"}
